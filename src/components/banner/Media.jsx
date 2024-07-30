@@ -19,10 +19,10 @@ const Media = () => {
               <a href='mailto:meetpat91@gmail.com'><HiOutlineMail /></a>
             </span>
             <span className="bannerIcon">
-              <a href='https://www.linkedin.com/in/csmeetpatel/'><FaLinkedinIn /></a>
+              <a href='https://www.linkedin.com/in/csmeetpatel/' target='_blank' rel='noreferrer'><FaLinkedinIn /></a>
             </span>
             <span className="bannerIcon">
-              <a href='https://github.com/meetpat2011'><BsGithub /></a>
+              <a href='https://github.com/meetpat2011' target='_blank' rel='noreferrer'><BsGithub /></a>
             </span>
           </div>
         </div>
