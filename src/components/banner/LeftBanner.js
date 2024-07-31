@@ -4,7 +4,7 @@ import Media from './Media';
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-      words: ["aspiring software engineer."],
+      words: ["software engineer."],
       loop: true,
       typeSpeed: 20,
       deleteSpeed: 10,
@@ -18,7 +18,7 @@ const LeftBanner = () => {
           Hi, I'm <span className="text-designColor capitalize">Meet Patel</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
-          an <span>{text}</span>
+          a <span>{text}</span>
           <Cursor
             cursorBlinking="false"
             cursorStyle="|"
